@@ -4,7 +4,7 @@
   <url>
     <loc>https://love.anzhiy.cn/manifest.json</loc>
     
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://love.anzhiy.cn/posts/b77b.html</loc>
     
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://love.anzhiy.cn/posts/9520.html</loc>
     
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>https://love.anzhiy.cn/about/index.html</loc>
     
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
 
   <url>
     <loc>https://love.anzhiy.cn/</loc>
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,7 +48,7 @@
   
   <url>
     <loc>https://love.anzhiy.cn/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
